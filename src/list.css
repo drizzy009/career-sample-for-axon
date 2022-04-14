@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Monda:wght@400;700&display=swap');
+
+.div2 {
+    position: relative;
+    padding-bottom: 0 !important;
+}
+.div2 h3 {
+    margin-bottom: 0;
+    color: rgba(64, 96, 175, 1);
+    font-size: 38px;
+}
+.div2 p {
+    font-size: 24px;
+    font-family: 'Monda', sans-serif;
+    font-weight: 700;
+    max-width: 420px;
+    margin-top: 10px !important;
+    margin-bottom: 0px !important;
+}
+
+.div2 span::before {
+    content: "";
+    border: 2px solid #4060AF;
+    display: block;
+    width: 57px;
+    position: absolute;
+    top: 50px;
+}
+
+.ca-list {
+    border-top: 1px dotted rgba(127, 127, 127, 0.2);
+    border-bottom: 1px dotted rgba(127, 127, 127, 0.2);
+    padding: 10px 0 14px;
+}
+
+.ca-list a {
+    text-decoration: none;
+}
+
+.ca-list1 {
+    border-top: 1px dotted rgba(127, 127, 127, 0.2);
+    border-bottom: 0;
+}
+
+.ca-list h4 {
+    margin: 0;
+    color: #0000ee;
+    padding-bottom: 5px;
+    font-size: 1.2em;
+    
+}
+
+.ca-list h4:hover {
+    text-decoration: underline;
+}
+
+.ca-list p {
+    margin: 0 !important;
+    padding: 0 !important;
+    color: #333333;
+    opacity: 0.8;
+    font-size: 15px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.ca-list span {
+    border: 1px solid #ccc;
+    margin-left: 10px;
+    border-radius: 4px;
+    padding: 4px;
+    font-size: 13px;
+    opacity: 0.8;
+}
+.active-box {
+    padding: 0 30px;
+}

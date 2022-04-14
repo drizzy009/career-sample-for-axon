@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Monda:wght@400;700&display=swap');
+
+.Test1 {
+    background-image:  url('https://kyosk.app/images/memories-banner.jpg');
+    background-size: cover;
+    display: block;
+    width: 100%;
+    padding: 144px 0;
+}
+.test1h3 {
+    padding: 40px;
+    background-color: rgba(64, 96, 175, .8);
+    color: #fff;
+    font-size: 30px;
+    margin: 0 200px;
+    text-align: center;
+}

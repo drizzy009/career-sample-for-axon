@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Monda:wght@400;700&display=swap');
+
+
+.re-eng span {
+    border: 1px solid #ccc;
+    padding: 4px;
+    font-size: 13px;
+    border-radius: 4px;
+}
+.re-eng p:nth-child(4) {
+    padding-top: 30px;
+}
+
+.re-eng {
+    padding: 0 30px;
+}
+.re-eng h2 {
+    margin: 0;
+    padding: 20px 0 0;
+    font-family: 'Monda',
+    sans-serif;
+}
+.re-eng p {
+    margin: 0;
+    padding: 2px 0 12px !important;
+    color: #333;
+    opacity: 0.8;
+}
+.re-eng2 {
+    padding: 20px 30px 0 30px;
+}
+
+
+
